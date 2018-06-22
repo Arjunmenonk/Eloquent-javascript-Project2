@@ -1,6 +1,6 @@
 ## Project Title
 
-Skill Sharing Website
+A Paint project
 
 ## Getting Started
 
@@ -11,8 +11,6 @@ purposes. See deployment for notes on how to deploy the project on a live system
 ## Prerequisites
 
 Visual studio code
-
-NPM
 
 ## Executing
 
